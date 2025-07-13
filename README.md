@@ -8,7 +8,9 @@
 ---
 
 ## 📂 Dataset Structure
-
+### Download link
+[baidu disk](https://pan.baidu.com/s/1V8d5fOjDeUrlYqAVIbW3Jg) 
+password: guj8
 ```
 WaterCaption/
 ├── train/
@@ -48,8 +50,13 @@ We release several benchmark models:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourname/WaterCaption.git
+git clone https://github.com/GuanRunwei/WaterCaption.git
 cd WaterCaption
+conda create -n watercatpion python=3.10
+conda activate watercaption
+
+pip install -r requirements.txt
+pip install -r requirements_mobileclip.txt
 ```
 
 ## 📘 Citation
