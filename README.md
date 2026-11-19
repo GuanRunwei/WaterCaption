@@ -9,8 +9,8 @@
 
 ## 📂 Dataset Structure
 ### Download link
-[baidu disk](https://pan.baidu.com/s/1V8d5fOjDeUrlYqAVIbW3Jg) 
-password: guj8
+[baidu disk](https://pan.baidu.com/s/1U6V_U0KfOFSYOfnK5ZuC-w?pwd=bjcb)
+password: bjcb
 ```
 WaterCaption/
 ├── train/
